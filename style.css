@@ -1,0 +1,17 @@
+header {
+  height:75px;
+    background: blue;
+  text-align: center;
+  color: black;
+}
+
+body {
+  background: lightblue;
+}
+
+img { 
+height:  280px;
+border: 3px solid darkblue;
+float: left;
+margin-right: 20px;
+}
